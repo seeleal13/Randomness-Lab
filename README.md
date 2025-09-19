@@ -1,5 +1,7 @@
 #  Randomness Lab
 
+<img width="1411" height="785" alt="Image" src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/fd90ecfb14b10419c2193e08065960d98a7360c4_image.png" />
+
 i made **Randomness Lab** to be an interactive, educational website that showcases
 different types of Random Number Generators (RNGs) but also in fun way! a win-win situation hehe
 note that i tried not to dive a lot into "what's behind" science so you can appreciate it in peace ToT
