@@ -1,4 +1,4 @@
-# 🎲 Randomness Lab
+#  Randomness Lab
 
 **Randomness Lab** is an interactive, educational website that showcases
 different types of Random Number Generators (RNGs).
@@ -9,7 +9,7 @@ with real-time graphs, statistics, and entropy demonstrations.
 
 ------------------------------------------------------------------------
 
-## 🚀 Features
+##  Features
 
 -   **Interactive Generators**
     -   Pseudo-Random (LCG) with seed control\
@@ -30,7 +30,7 @@ with real-time graphs, statistics, and entropy demonstrations.
 
 ------------------------------------------------------------------------
 
-## 📂 Project Structure
+##  Project Structure
 
     index.html   # Main single-page website
     assets/      # (optional) Place for images, icons, etc.
@@ -40,7 +40,7 @@ browser to explore.
 
 ------------------------------------------------------------------------
 
-## 🛠️ Getting Started
+##  Getting Started
 
 1.  Clone the repository:
 
@@ -54,7 +54,7 @@ browser to explore.
 
 ------------------------------------------------------------------------
 
-## 💡 Motivation
+##  Motivation
 
 The idea came from a real experience:
 I once faced a **fraud ban** after using a basic `random.randint` to
@@ -68,17 +68,7 @@ important.
 
 ------------------------------------------------------------------------
 
-## ⚠️ Disclaimer
-
--   This project is **purely educational**.
--   The RNGs implemented here are **detectable** and **not suitable**
-    for cryptographic or security purposes.
--   I **do not claim, encourage, or endorse any misuse** of this
-    project.
-
-------------------------------------------------------------------------
-
-## 🐞 Bugs & Contributions
+##  Bugs & Contributions
 
 If you find a bug or have a suggestion, feel free to **open an issue**
 or **submit a pull request**.
@@ -86,13 +76,4 @@ Alternatively, you can **ping me on Slack** (`@seeleal`) for
 direct bug reports.
 
 ------------------------------------------------------------------------
-
-## 📜 License
-
-MIT License --- feel free to fork, learn, and build upon this project.
-
-------------------------------------------------------------------------
-
-✨ *Happy exploring, and may your random numbers be ever in your favor!*
-🎲
 by Seeleal13
