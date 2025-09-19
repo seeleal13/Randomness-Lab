@@ -1,7 +1,7 @@
 # 🎲 Randomness Lab
 
 **Randomness Lab** is an interactive, educational website that showcases
-different types of Random Number Generators (RNGs).\
+different types of Random Number Generators (RNGs).
 It lets you explore, visualize, and compare how algorithms like **Linear
 Congruential Generator (LCG)**, **Xorshift**, **Middle Square**,
 **Multiplicative Congruential**, and browser **Crypto RNG** behave ---
@@ -13,8 +13,8 @@ with real-time graphs, statistics, and entropy demonstrations.
 
 -   **Interactive Generators**
     -   Pseudo-Random (LCG) with seed control\
-    -   Cryptographically Secure RNG (`window.crypto`)\
-    -   Physical RNG (mouse movement / touch gestures)\
+    -   Cryptographically Secure RNG (`window.crypto`)
+    -   Physical RNG (mouse movement / touch gestures)
     -   Advanced RNGs: Xorshift, Middle Square, Multiplicative
         Congruential
 -   **Visualizations**
@@ -25,7 +25,7 @@ with real-time graphs, statistics, and entropy demonstrations.
     -   Pros, cons, use cases, and historical notes for each RNG\
     -   Side-by-side comparisons of algorithms
 -   **Accessible Implementation**
-    -   Built with **vanilla HTML, CSS, and JavaScript**\
+    -   Built with **vanilla HTML, CSS, and JavaScript**
     -   No external dependencies --- runs directly in the browser
 
 ------------------------------------------------------------------------
@@ -49,16 +49,16 @@ browser to explore.
     cd randomness-lab
     ```
 
-2.  Open `index.html` in your browser.\
+2.  Open `index.html` in your browser.
     That's it! No build steps or installations required.
 
 ------------------------------------------------------------------------
 
 ## 💡 Motivation
 
-The idea came from a real experience:\
+The idea came from a real experience:
 I once faced a **fraud ban** after using a basic `random.randint` to
-generate keystroke delays.\
+generate keystroke delays.
 That made me realize standard randomness isn't truly random --- and can
 be detected.
 
@@ -70,9 +70,9 @@ important.
 
 ## ⚠️ Disclaimer
 
--   This project is **purely educational**.\
+-   This project is **purely educational**.
 -   The RNGs implemented here are **detectable** and **not suitable**
-    for cryptographic or security purposes.\
+    for cryptographic or security purposes.
 -   I **do not claim, encourage, or endorse any misuse** of this
     project.
 
@@ -81,7 +81,7 @@ important.
 ## 🐞 Bugs & Contributions
 
 If you find a bug or have a suggestion, feel free to **open an issue**
-or **submit a pull request**.\
+or **submit a pull request**.
 Alternatively, you can **ping me on Slack** (`@seeleal`) for
 direct bug reports.
 
